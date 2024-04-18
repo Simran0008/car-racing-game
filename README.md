@@ -1,6 +1,6 @@
 # car-racing-game
 
-https://youtu.be/q__PQrJhUOc?si=IgFsmurcippzVdzk
+https://www.youtube.com/watch?v=v4WfJtPIBR4
 
 Imports: The script imports the Pygame library and the random module.
 
